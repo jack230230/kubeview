@@ -4,7 +4,7 @@
 
 # Kubeview specific, if true the app will function in single namespace mode
 # The roles & rolebindings created will be namespaced rather than cluster scoped
-limitNamespace: false
+limitNamespace: true
 
 replicaCount: 1
 
